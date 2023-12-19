@@ -16,6 +16,8 @@
 		B8B15C292B304904000BBF36 /* CounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B15C282B304904000BBF36 /* CounterTests.swift */; };
 		B8B15C332B304904000BBF36 /* CounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B15C322B304904000BBF36 /* CounterUITests.swift */; };
 		B8B15C352B304904000BBF36 /* CounterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B15C342B304904000BBF36 /* CounterUITestsLaunchTests.swift */; };
+		B8B15C432B31817C000BBF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8B15C172B304903000BBF36 /* Main.storyboard */; };
+		B8B15C442B31817C000BBF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8B15C172B304903000BBF36 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		B8B15C2E2B304904000BBF36 /* CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8B15C322B304904000BBF36 /* CounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterUITests.swift; sourceTree = "<group>"; };
 		B8B15C342B304904000BBF36 /* CounterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B8B15C422B318173000BBF36 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,6 +244,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8B15C432B31817C000BBF36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8B15C442B31817C000BBF36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +306,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B8B15C182B304903000BBF36 /* Base */,
+				B8B15C422B318173000BBF36 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
