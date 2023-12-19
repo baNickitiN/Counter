@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "1JE-dv-x8D"; */
+"1JE-dv-x8D.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1JE-dv-x8D"; */
+"1JE-dv-x8D.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Значение счетчика"; ObjectID = "Dh0-e9-udX"; */
+"Dh0-e9-udX.text" = "Значение счетчика";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "EyX-eG-lqO"; */
+"EyX-eG-lqO.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EyX-eG-lqO"; */
+"EyX-eG-lqO.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "История изменений"; ObjectID = "X1h-jx-qEQ"; */
+"X1h-jx-qEQ.text" = "История изменений";
+
+/* Class = "UIButton"; configuration.title = "clear"; ObjectID = "YuT-ji-1N8"; */
+"YuT-ji-1N8.configuration.title" = "clear";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YuT-ji-1N8"; */
+"YuT-ji-1N8.normalTitle" = "Button";
